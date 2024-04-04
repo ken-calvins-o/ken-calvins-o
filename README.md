@@ -10,8 +10,7 @@
 
 # 📺 Featured YouTube Videos:
 <!-- BEGIN YOUTUBE-CARDS -->
-[![RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins](https://ytcards.demolab.com/?id=9I6ZlSZDQZQ&title=RISING+ABOVE+THE+ODDS:+From+Centum+to+Coding+Guru+-+The+Inspiring+Journey+of+Kennedy+Calvins&lang=en&timestamp=1708309600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3019 "RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins")](https://youtu.be/9I6ZlSZDQZQ?si=Fmd2pFaqa6bJ1NHj)
-
+[![RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins](https://ytcards.demolab.com/?id=9I6ZlSZDQZQ&title=RISING+ABOVE+THE+ODDS:+From+Centum+to+Coding+Guru+-+The+Inspiring+Journey+of+Kennedy+Calvins&lang=en&timestamp=1674165600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28131700 "RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins")](https://youtu.be/9I6ZlSZDQZQ?si=Fmd2pFaqa6bJ1NHj)
 
 <!-- END YOUTUBE-CARDS -->
 
