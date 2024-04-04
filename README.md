@@ -3,7 +3,7 @@
 ### Occasionally doing Vue.js - 🤓
 
 #### I’m looking to collaborate on Laravel Open Source Projects - 👨🏽‍💻
-#####📫 How to reach me (ken.calvins.o@gmail.com)
+##### 📫 How to reach me (ken.calvins.o@gmail.com)
 
 
 
