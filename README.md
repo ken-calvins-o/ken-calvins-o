@@ -16,8 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ken-calvins-o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins]([https://ytcards.demolab.com/?id=9I6ZlSZDQZQ&title=RISING+ABOVE+THE+ODDS:+From+Centum+to+Coding+Guru+-+The+Inspiring+Journey+of+Kennedy+Calvins
-&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://ytcards.demolab.com/?id=9I6ZlSZDQZQ&title=RISING+ABOVE+THE+ODDS:+From+Centum+to+Coding+Guru+-+The+Inspiring+Journey+of+Kennedy+Calvins&lang=en&timestamp=1649261100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300 "RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins")))
+[![RISING ABOVE THE ODDS: From Centum to Coding Guru - The Inspiring Journey of Kennedy Calvins](https://ytcards.demolab.com/?id=9I6ZlSZDQZQ&title=RISING+ABOVE+THE+ODDS:+From+Centum+to+Coding+Guru+-+The+Inspiring+Journey+of+Kennedy+Calvins&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+
 
 <!-- END YOUTUBE-CARDS -->
 
