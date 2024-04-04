@@ -14,6 +14,7 @@
 
 [![Expert Session: Building your tech brand: Creating a Powerful Portfolio](https://ytcards.demolab.com/?id=lgVZZefwTDc&title=Expert+Session:+Building+your+tech+brand:+Creating+a+Powerful+Portfolio&lang=en&timestamp=1678202400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5555 "Expert Session: Building your tech brand: Creating a Powerful Portfolio")](https://www.youtube.com/live/lgVZZefwTDc?si=hJr_vX9PEiEXMP68)
 
+[![From the Idea to writing a Project](https://ytcards.demolab.com/?id=PuVmQed241A&title=From+the+Idea+to+writing+a+Project&lang=en&timestamp=1678263600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6725 "From the Idea to writing a Project")](https://www.youtube.com/live/PuVmQed241A?si=b5fR4oFeDTC7-cHl)
 
 
 <!-- END YOUTUBE-CARDS -->
