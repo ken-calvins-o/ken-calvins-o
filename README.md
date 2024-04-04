@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ken-calvins-o
+## 👋 Hi, I’m @ken-calvins-o
 - 👀 I’m interested in the TALL Stack
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Laravel Open Source Projects
