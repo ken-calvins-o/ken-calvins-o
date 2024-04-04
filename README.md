@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @ken-calvins-o
 ## I’m skilled in (Tailwind, Laravel (PHP), Livewire)TALL Stack, Docker, Laravel Vapor and AWS/Azure - 👀
+### Software Engineer passionate about sharing my journey and learnings in tech - 👀
 ### Occasionally doing Vue.js - 🤓
 
 #### I’m looking to collaborate on Laravel Open Source Projects - 👨🏽‍💻
@@ -7,7 +8,6 @@
 
 
 
-<!---
-ken-calvins-o/ken-calvins-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--- 
+[![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-calvins-o&count_private=true&show_icons=true&theme_radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 --->
