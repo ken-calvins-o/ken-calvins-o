@@ -8,6 +8,5 @@
 
 
 
-<!--- 
 [![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-calvins-o&count_private=true&show_icons=true&theme_radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
---->
+
