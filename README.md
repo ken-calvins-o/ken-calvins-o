@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ken-calvins-o
-## I’m interested in the (Tailwind, Laravel (PHP), Livewire)TALL Stack
+## I’m interested in the (Tailwind, Laravel (PHP), Livewire)TALL Stack 👀
 ###🌱 Occasionally doing Vue.js
 #### 💞️ I’m looking to collaborate on Laravel Open Source Projects
 #####📫 How to reach me (ken.calvins.o@gmail.com)
